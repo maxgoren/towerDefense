@@ -1,0 +1,19 @@
+#include <iostream>
+#include <vector>
+#include <unordered_map>
+#include <queue>
+#include <random>
+#include <algorithm>
+#include "BearLibTerminal.h"
+#include "globals.h"
+#include "rangen.h"
+#include "shapes.h"
+#include "compass.h"
+#include "room.h"
+#include "board.h"
+#include "shooting.h"
+#include "entity.h"
+#include "tower.h"
+#include "ai.h"
+#include "engine.h"
+using namespace std;
